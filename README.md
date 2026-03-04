@@ -35,11 +35,17 @@
 <i><b>Olá</b> :wave:, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador.
 </div>
 
+<div align="center">
 
+<table>
+<tr>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+</tr> 
 
+ 
+</table>
 
-
-
+</div>
 
 
 
