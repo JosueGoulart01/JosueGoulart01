@@ -1,132 +1,88 @@
-<!-- HEADER -->
+<!--- Header -->
 
 <div align="center">
-
-<img src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png"/>
-
-<h1>👨‍💻 Josué Goulart</h1>
-
-<p>
-Backend Developer | Java • Spring Boot • React
-</p>
-
+<img alt="Header" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png"/>
 </div>
 
 ---
 
-# 🌎 Conecte-se comigo
+<!-- Redes sociais -->
 
 <div align="center">
 
+<table>
+<tr>
+
+<td>
+<a href="#">
+<img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px"/>
+</a>
+</td>
+
+<td>
 <a href="https://github.com/JosueGoulart01">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px"/>
 </a>
+</td>
 
+<td>
 <a href="mailto:josuegoulart.engdesoftware@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px"/>
 </a>
+</td>
 
+<td>
 <a href="https://wa.me/5531986944904">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px"/>
 </a>
+</td>
 
+<td>
 <a href="https://www.instagram.com/josuegoulart_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px"/>
 </a>
+</td>
 
+<td>
 <a href="https://www.linkedin.com/in/josué-goulart">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+<div align="justify">
 
-💻 Desenvolvedor de Software  
-📍 Belo Horizonte - MG  
-
-🚀 Focado em:
-
-- Java
-- Spring Boot
-- APIs REST
-- React
-- Backend Development
-
----
-
-# 🛠 Tecnologias
-
-## Linguagens
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-
-</p>
-
----
-
-## Frameworks
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-</p>
-
----
-
-## Banco de Dados
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-</p>
-
----
-
-## Ferramentas
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-
-</p>
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical&cache_seconds=86400"/>
+<i><b>Olá</b> 👋, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador.</i>
 
 </div>
 
 ---
 
-# 🔥 Streak de commits
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JosueGoulart01&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/JosueGoulart01?style=social"/>
+
+<img src="https://img.shields.io/github/stars/JosueGoulart01?style=social"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
 
 </div>
 
@@ -142,17 +98,75 @@ Backend Developer | Java • Spring Boot • React
 
 ---
 
-# 📈 Atividade
+# 💻 Minhas Habilidades
 
-<div align="center">
+## Linguagens
 
-<img src="https://komarev.com/ghpvc/?username=JosueGoulart01&style=for-the-badge"/>
+<p align="left">
 
-<img src="https://img.shields.io/github/followers/JosueGoulart01?style=social"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
-<img src="https://img.shields.io/github/stars/JosueGoulart01?style=social"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
+
+## Frameworks & Bibliotecas
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50"/>
+
+</p>
+
+---
+
+## Banco de Dados
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+</p>
+
+---
+
+## Ferramentas e IDEs
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
+
+</p>
 
 ---
 
