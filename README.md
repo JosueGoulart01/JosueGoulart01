@@ -35,15 +35,15 @@
 <i><b>Olá</b> :wave:, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador.
 </div>
 
-<div align="center">
+
 
 <div align="center">
 
 <h2>⏱ WakaTime</h2>
 
-<a href="https://wakatime.com/@JosueGoulart01">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical" />
+
+</div>
 
 
 
