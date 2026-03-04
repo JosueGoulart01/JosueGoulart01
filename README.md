@@ -43,9 +43,7 @@
 </tr> 
 
  
-</table>
-
-</div>
+<img alt="Full time" src="https://wakatime.com/badge/user/8426a487-f911-438f-aead-d9247fe04361.svg" />
 
 
 
