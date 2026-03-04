@@ -44,6 +44,6 @@
 </div>
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Josué Goulartcode>, tenho 20 anos, moro em BH e sou programador.
+<i><b>Olá</b> :wave:, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador.
 </div>
 
