@@ -42,8 +42,7 @@
 <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr> 
 
- 
-<img alt="Full time" src="https://wakatime.com/badge/user/8426a487-f911-438f-aead-d9247fe04361.svg" />
+ ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulartlayout=compact&theme=radical)
 
 
 
