@@ -42,7 +42,7 @@
 <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr> 
 
- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01layout=compact&theme=radical)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical)
 
 
 
