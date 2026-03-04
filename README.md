@@ -88,6 +88,26 @@
 
 ---
 
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=radical"/>
+
+</div>
+
+---
+
 # ⏱ WakaTime
 
 <div align="center">
