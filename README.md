@@ -76,19 +76,7 @@
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
-
-</div>
-
----
-
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -102,12 +90,23 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
+
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=radical"/>
+
+</div>
+
+---
 # ⏱ WakaTime
 
 <div align="center">
