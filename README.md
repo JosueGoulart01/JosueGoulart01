@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
 
@@ -102,7 +102,7 @@
 
 ## Linguagens
 
-<p align="left">
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
@@ -120,9 +120,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
 
-## Frameworks & Bibliotecas
+## Frameworks
 
-<p align="left">
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
 
@@ -150,7 +150,7 @@
 
 ---
 
-## Ferramentas e IDEs
+## Ferramentas
 
 <p>
 
@@ -159,8 +159,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
 
