@@ -78,42 +78,26 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=radical&hide_border=true"/>
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=tokyonight"/>
 
 ---
 
+## 🔥 Streak
 
+<img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=tokyonight"/>
+
+---
 
 ## 📈 Contribuições
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=radical"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueGoulart01&theme=tokyo-night"/>
 
 ---
-# ⏱ WakaTime
 
-<div align="center">
+## ⏱️ WakaTime
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_WAKATIME&theme=tokyonight"/>
 
 ---
 
