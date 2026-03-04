@@ -63,14 +63,31 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://img.shields.io/badge/Profile%20Views-86337-blue"/>
+<img src="https://img.shields.io/badge/Repo%20Size-Invalid-lightgrey"/>
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen"/>
+<img src="https://img.shields.io/badge/License-MIT-blue"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Commit%20Activity-158/month-blue"/>
+<img src="https://img.shields.io/badge/Last%20Commit-Last%20Monday-green"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/JosueGoulart01?style=social"/>
+<img src="https://img.shields.io/github/stars/JosueGoulart01?style=social"/>
+
+</div>
+
 
 # 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact"/>
 
 </div>
 
