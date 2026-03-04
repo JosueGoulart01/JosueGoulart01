@@ -37,12 +37,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
-</tr> 
+<div align="center">
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical)
+<h2>⏱ WakaTime</h2>
+
+<a href="https://wakatime.com/@JosueGoulart01">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=radical"/>
+</a>
 
 
 
