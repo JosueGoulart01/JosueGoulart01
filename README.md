@@ -1,4 +1,4 @@
-<!--- Header -->
+<!-- HEADER -->
 
 <div align="center">
 <img alt="Header" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png"/>
@@ -6,7 +6,7 @@
 
 ---
 
-<!-- Redes sociais -->
+<!-- REDES SOCIAIS -->
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 <tr>
 
 <td>
-<a href="https://">
+<a href="#">
 <img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px"/>
 </a>
 </td>
@@ -56,44 +56,45 @@
 
 ---
 
-<div align="justify">
-
-<i><b>Olá</b> 👋, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador.</i>
-
-</div>
-
----
 <div align="center">
 
-<img src="https://img.shields.io/badge/Profile%20Views-86337-blue"/>
-<img src="https://img.shields.io/badge/Repo%20Size-Invalid-lightgrey"/>
-<img src="https://img.shields.io/badge/Build-Passing-brightgreen"/>
-<img src="https://img.shields.io/badge/License-MIT-blue"/>
+### 👋 Olá, eu sou **Josué Goulart**
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Commit%20Activity-158/month-blue"/>
-<img src="https://img.shields.io/badge/Last%20Commit-Last%20Monday-green"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/JosueGoulart01?style=social"/>
-<img src="https://img.shields.io/github/stars/JosueGoulart01?style=social"/>
-
-</div>
-
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact"/>
+💻 Desenvolvedor de Software  
+📍 Belo Horizonte - MG  
+🚀 Focado em **Java, Spring Boot, React e Backend Development**
 
 </div>
 
 ---
 
-# ⏱ WakaTime
+# 🏷️ Badges Profissionais
+
+<div>
+
+<img src="https://img.shields.io/badge/Java-Developer-blue?logo=openjdk"/>
+<img src="https://img.shields.io/badge/Spring-Boot-green?logo=spring"/>
+<img src="https://img.shields.io/badge/React-Developer-blue?logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Developer-green?logo=node.js"/>
+<img src="https://img.shields.io/badge/TypeScript-Developer-blue?logo=typescript"/>
+<img src="https://img.shields.io/badge/Python-Developer-blue?logo=python"/>
+<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql"/>
+<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
+<img src="https://img.shields.io/badge/Git-VersionControl-orange?logo=git"/>
+<img src="https://img.shields.io/badge/Linux-User-black?logo=linux"/>
+<img src="https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/IntelliJ-IDE-black?logo=intellijidea"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -105,11 +106,45 @@
 
 ---
 
-# 💻 Minhas Habilidades
+# ⏱ WakaTime
 
-## Linguagens
+<div align="center">
 
-<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact"/>
+
+</div>
+
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=JosueGoulart01&style=for-the-badge"/>
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JosueGoulart01/JosueGoulart01?style=for-the-badge&logo=files"/>
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/JosueGoulart01/JosueGoulart01?style=for-the-badge&logo=git"/>
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JosueGoulart01/JosueGoulart01?style=for-the-badge&logo=clockify"/>
+
+<br>
+
+<img alt="Followers" src="https://img.shields.io/github/followers/JosueGoulart01?style=social"/>
+
+<img alt="Stars" src="https://img.shields.io/github/stars/JosueGoulart01?style=social"/>
+
+</div>
+
+---
+
+# 💻 Tecnologias
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
+
+### Linguagens
+
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
@@ -125,11 +160,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right"/>
+### Frameworks
 
-## Frameworks & Bibliotecas
-
-<p align="left">
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
 
@@ -145,7 +178,7 @@
 
 ---
 
-## Banco de Dados
+### Banco de Dados
 
 <p>
 
@@ -157,7 +190,7 @@
 
 ---
 
-## Ferramentas e IDEs
+### Ferramentas
 
 <p>
 
@@ -174,3 +207,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
 
 </p>
+
+---
+
+<div align="center">
+
+⭐ **Obrigado por visitar meu perfil!**
+
+</div>
