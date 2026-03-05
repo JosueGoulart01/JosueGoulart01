@@ -51,6 +51,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=tokyonight&langs_count=8" alt="Wakatime Josue" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=tokyonight&langs_count=8" alt="Wakatime Josue" />
 </div>
 
 -----
@@ -64,7 +65,17 @@ Graduando em <b>Engenharia de Software</b>. Profissional em constante evolução
 -----
 ## Estatísticas
 <div  align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
+ <table>
+  <tr>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
+  </tr>
+  <tr>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" />
+  </tr>
+  <tr>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" />
+  </tr>
+  </table>
  </div>
 -----
 
