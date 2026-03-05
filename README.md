@@ -50,7 +50,7 @@
 -----
 
 <div align="center">
-  <img src="[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=480&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=15)](https://nice-readme.vercel.app/wakatime)" />
+ [![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=480&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=15)](https://nice-readme.vercel.app/wakatime)
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&layout=compact&theme=tokyonight&langs_count=8" alt="Wakatime Josue" />
 </div>
 
