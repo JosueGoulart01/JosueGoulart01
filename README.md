@@ -92,18 +92,31 @@ Graduando em <b>Engenharia de Software</b> em Belo Horizonte, focado em construi
 -----
 
 <div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/JosueGoulart01/JosueGoulart01/main/img/footer_divider.png" width="100%" />
-  <br />
-  <table>
+  <table border="0">
     <tr>
-      <td align="center">
-        <b>Josué Goulart</b><br />
-        <sub>Engenheiro de Software em Formação</sub><br />
-        <a href="#top">🔼 Voltar ao topo</a>
+      <td width="300px" align="center">
+        <img src="https://joaopauloaramuni.github.io/image/header_aramuni.png" alt="Footer Illustration" width="100%"/>
+      </td>
+      <td width="500px" align="left">
+        <div align="justify">
+          <b>Obrigado por visitar meu perfil!</b> 👋<br/><br/>
+          Atualmente estou focado em aprimorar minhas habilidades em <b>Arquitetura de Software</b> e <b>Cloud Computing</b>. Se você tiver interesse em colaborar em algum projeto ou apenas quiser trocar uma ideia sobre tecnologia, não hesite em me contatar!
+          <br/><br/>
+          📍 <b>Belo Horizonte, MG</b><br/>
+          🎓 <b>Engenharia de Software</b>
+        </div>
+        <br/>
+        <div align="center">
+          <a href="#top">🔼 <b>Voltar ao topo</b></a>
+        </div>
       </td>
     </tr>
   </table>
-  <br />
-  <sub>Copyright © 2024 - Desenvolvido com ❤️ por Josué Goulart</sub>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" />
+  <br/>
+  <sub><b>Construído com ❤️ por Josué Goulart</b></sub>
 </div>
