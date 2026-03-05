@@ -136,59 +136,17 @@
 
 ---
 
-<div align="center">
-  <h3>💡 Inspiração</h3>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
-  </a>
-</div>
-
----
 <br/>
 
-<div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Expert-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
-<br />
-<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
-<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
-<img src="https://img.shields.io/badge/Remix-Dev-blue?logo=Remix"/>
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<br />
-<img src="https://img.shields.io/badge/S3-Dev-blue?logo=amazons3"/>
-<img src="https://img.shields.io/badge/EC2-Dev-blue?logo=amazonec2"/>
-<img src="https://img.shields.io/badge/SQS-Dev-blue?logo=amazonsqs"/>
-<img src="https://img.shields.io/badge/Cloud%20Watch-Dev-blue?logo=amazoncloudwatch"/>
-<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
-<img src="https://img.shields.io/badge/Heroku-Dev-blue?logo=heroku"/>
-<img src="https://img.shields.io/badge/Fly.io-Dev-blue?logo=flydotio"/>
-<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
-<br />
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
-<a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueGoulart01/JosueGoulart01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueGoulart01/JosueGoulart01/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobra do GitHub" src="https://raw.githubusercontent.com/JosueGoulart01/JosueGoulart01/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
 ---
 <div align="center">
 
