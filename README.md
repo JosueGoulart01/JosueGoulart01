@@ -64,7 +64,7 @@ Graduando em <b>Engenharia de Software</b>. Profissional em constante evolução
 -----
 ## Estatísticas
 <div  align="center">
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
  </div>
 -----
 
