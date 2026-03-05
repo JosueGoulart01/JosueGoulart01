@@ -93,6 +93,7 @@ Graduando em <b>Engenharia de Software</b> em Belo Horizonte, focado em construi
 -----
 
 [![wakatime](https://wakatime.com/badge/user/22f16504-4e1f-4cf8-88e9-c45a8083b491.svg)](https://wakatime.com/@22f16504-4e1f-4cf8-88e9-c45a8083b491)
+<a href="https://wakatime.com/@22f16504-4e1f-4cf8-88e9-c45a8083b491"><img src="https://wakati504-4e1f-4cf8-88e9-c45a8083b491.svg" alt="Total time coded since Mar 4 2026" /></a>me.com/badge/user/22f16
 
 <div align="center">
 <table border="0">
