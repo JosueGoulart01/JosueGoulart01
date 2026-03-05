@@ -1,70 +1,92 @@
 <div align="center">
-  <img alt="Banner Josué Goulart" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png" width="100%"/>
+  <img alt="Banner" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <i><b>Olá</b> 👋, sou o <code>Josué Goulart</code>, desenvolvedor de Belo Horizonte, MG.</i>
-  <br/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Arquitetura+de+Soluções;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <h1><img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> Sou o Josué Goulart</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="mailto:josuegoulart.engdesoftware@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/josué-goulart">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5531986944904">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/josuegoulart_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://www.linkedin.com/in/josué-goulart"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:josuegoulart.engdesoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5531986944904"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JosueGoulart01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🚀 Sobre Mim
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>Graduando em <b>Engenharia de Software</b> em Belo Horizonte, focado em construir soluções escaláveis e eficientes. Tenho forte afinidade com o ecossistema <b>Java (Spring)</b> e <b>JavaScript/TypeScript</b>.</p>
+      <ul>
+        <li>🔭 <b>Foco atual:</b> Microsserviços e Arquitetura Limpa.</li>
+        <li>📚 <b>Estudando:</b> Cloud Computing (AWS/Azure) e DevOps.</li>
+        <li>⚡ <b>Diferencial:</b> Organização de código e pensamento crítico.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&style=flat-square&color=7AA2F7&label=VISUALIZAÇÕES" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/JosueGoulart01?style=flat-square&color=7AA2F7&logo=github" alt="Followers"/>
+
+| **Categoria** | **Tecnologias** |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+## 📊 Performance & Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=tokyonight&hide_border=true" height="180px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JosueGoulart01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Troféus do GitHub" />
-  </a>
+  <h3>📉 Histórico de Contribuições</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueGoulart01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🔭 Atualmente desenvolvendo **[Inserir seu projeto principal ou foco atual]**
-- 🌱 Aprofundando meus conhecimentos em **[Ex: Arquitetura de Software, Cloud AWS, etc.]**
-- 👯 Aberto a colaborações em **projetos Open Source e desafios de Back-end**
-- 💬 Me pergunte sobre **Java, Python, boas práticas e engenharia de software**
-- ⚡ Fato curioso: **[Inserir um hobby, ex: Sou fascinado por automação residencial]**
-
----
-
-## 🚀 Projetos em Destaque
+## 📂 Projetos em Destaque
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center">
-        <a href="https://github.com/JosueGoulart01/NOME_DO_SEU_REPOSITORIO_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true" width="400" alt="Projeto 1"/>
+      <td>
+        <a href="https://github.com/JosueGoulart01">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_PROJETO&theme=tokyonight&hide_border=true" />
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/JosueGoulart01/NOME_DO_SEU_REPOSITORIO_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true" width="400" alt="Projeto 2"/>
+      <td>
+        <a href="https://github.com/JosueGoulart01">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_PROJETO&theme=tokyonight&hide_border=true" />
         </a>
       </td>
     </tr>
@@ -73,74 +95,14 @@
 
 ---
 
-## 💻 Tecnologias e Ferramentas
-
 <div align="center">
-
-### Linguagens
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" title="Java" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" title="TypeScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" title="C" />
-</p>
-
-### Frameworks & Bibliotecas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" alt="Spring" title="Spring Boot" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React" title="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" title="Next.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" alt="NestJS" title="NestJS" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django" title="Django" />
-</p>
-
-### Banco de Dados & Infraestrutura
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" alt="Docker" title="Docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" title="Figma" />
-</p>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
-
-## 📊 Analytics do GitHub
+<br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais usadas"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueGoulart01&theme=tokyonight&hide_border=true" height="160" alt="WakaTime Stats"/>
-      </td>
-    </tr>
-  </table>
-
+  <sub>Construído com ❤️ por Josué Goulart. <b>BH - Brasil</b></sub>
   <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueGoulart01&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%" alt="Gráfico de Atividade"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação sobre programação" />
-  <br/>
-  <br/>
-  ⭐ <i>Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus repositórios.</i>
+  <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&color=7AA2F7&style=flat-square&label=Profile+Views" />
 </div>
