@@ -1,73 +1,151 @@
 <div align="center">
-  <img alt="Banner" src="https://raw.githubusercontent.com/JosueGoulart01/JosueGoulart01/main/img/banner.png" width="100%"/>
+<table>
+<tr>
+ <td align="center"><img align="center" alt="Banner" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">🚀 Desenvolvedor de Software | Estudante de Engenharia de Software</td>
+</tr>
+</table>
 </div>
 
-<br/>
+----- 
 
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> Sou o Josué Goulart</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+<table>
+<tr>
+ <td align="center" colspan="6">Mídias e Contato</td>
+</tr> 
+<tr>
+<td><a href="https://github.com/JosueGoulart01" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="mailto:josuegoulart.engdesoftware@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://wa.me/5531986944904" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://www.instagram.com/josuegoulart_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://www.linkedin.com/in/josué-goulart" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a></td>
+</tr>
+</table>
 </div>
+
+<div align="justify">
+<i><b>Olá</b> 👋, sou o <code>Josué Goulart</code>, tenho 20 anos, moro em BH e sou programador. Atualmente sou estudante de <code>Engenharia de Software</code>, focado em construir soluções modernas e escaláveis.</i>
+</div>
+
+-----
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/josué-goulart"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:josuegoulart.engdesoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5531986944904"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
-<br/>
+-----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/> **Sobre mim:**
+
+<div align="justify">
+Sou um entusiasta da tecnologia e estudante dedicado de Engenharia de Software em Belo Horizonte. Minha jornada na programação é movida pela curiosidade de entender como sistemas complexos funcionam sob o capô. Tenho experiência prática no ecossistema <b>Java (Spring Boot)</b> e no desenvolvimento moderno com <b>JavaScript/TypeScript (Node, React, Next.js e NestJS)</b>. Além do desenvolvimento de software, interesso-me profundamente por arquitetura de sistemas, bancos de dados relacionais (PostgreSQL/MySQL) e a cultura DevOps com Docker. Busco constantemente aprender novas ferramentas e metodologias para entregar código de alta qualidade e impacto.
+</div>
+
+-----
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosueGoulart01&theme=tokyonight&no-frame=false&margin-w=15" alt="trophies" />
+<table>
+<tr>
+ <td align="center"><b>Minhas Estatísticas</b></td>
+ <td align="center"><b>Linguagens mais usadas</b></td>
+</tr>
+<tr>
+ <td><img src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="185px"/></td>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=tokyonight&hide_border=true" height="185px"/></td>
+</tr>
+</table>
 </div>
 
----
+-----
 
-## 🚀 Sobre Mim
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/> **Interesses e Fatos:**
 
-Graduando em **Engenharia de Software** em Belo Horizonte, focado em construir soluções escaláveis e eficientes. Tenho forte afinidade com o ecossistema **Java (Spring)** e **JavaScript/TypeScript**.
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="600px" >
+<div align="justify">
+<p> 
+- 🎓 Estudante de <b>Engenharia de Software</b> em BH.<br />
+- 💻 Atualmente trabalhando com <b>Java/Spring Boot</b> e <b>Node.js</b>.<br />
+- 🔭 Meus projetos principais focam em <b>APIs RESTful</b> e microsserviços.<br />
+- ⚙️ Apaixonado por <b>Docker</b> e automação de ambientes.<br />
+- 🐍 Também brinco com <b>Python</b> para automações e scripts rápidos.<br />
+- ⚡ Fato curioso: Adoro resolver desafios de lógica e algoritmos em C.<br />
+- 💬 Pergunte-me sobre: Java, Web Dev ou por onde começar em Eng. de Software.<br />
+- 📫 E-mail para contato: <a href="mailto:josuegoulart.engdesoftware@gmail.com">josuegoulart.engdesoftware@gmail.com</a>
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="Dev Animation" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="340px" />
+</div>
+</td>
+</tr>
+</table>
 
-- 🔭 **Foco atual:** Microsserviços e Arquitetura Limpa.
-- 📚 **Estudando:** Cloud Computing (AWS/Azure) e DevOps.
-- ⚡ **Diferencial:** Organização de código e pensamento crítico.
+-----
 
----
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/> **Linguagens e Ferramentas:**
 
-## 📊 Estatísticas e Atividade
+<div align="left">
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/></code>
+&nbsp;
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code"/></code>
+</div>
+
+-----
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+<table>
+<tr>
+ <td align="center"><b>Atividade de Commits</b></td>
+ <td align="center"><b>GitHub Streak</b></td>
+</tr>
+<tr>
+ <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueGoulart01&theme=tokyo-night&hide_border=true" width="400px"/></td>
+ <td><img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=tokyonight&hide_border=true" width="400px"/></td>
+</tr>
+</table>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JosueGoulart01&theme=tokyonight&hide_border=true" height="170px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueGoulart01&theme=tokyo-night&hide_border=true&area=true" width="80%" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Linguagens**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks**
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Tools & Infra**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
+-----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&color=7AA2F7&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+ <br />
+ ⭐ Obrigado por visitar meu perfil! <br />
+ <img src="https://komarev.com/ghpvc/?username=JosueGoulart01&color=7AA2F7&style=flat-square&label=Profile+Views" />
 </div>
