@@ -145,8 +145,6 @@
 
 ---
 
----
-
 <div align="center">
   <h3>🐍 Snake Contribution Graph</h3>
   
