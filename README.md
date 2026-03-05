@@ -76,9 +76,7 @@ Graduando em <b>Engenharia de Software</b>. Profissional em constante evolução
 
 -----
 
-<div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
-</div>
+
 
 -----
 
