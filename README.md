@@ -47,7 +47,7 @@
 
 ## 💻 Minhas Habilidades
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Linguagens:
 <div>
@@ -118,21 +118,8 @@
 
 <br/><br/>
 
-<div>
-  <p>
-      /$$$$$                                                /$$$$$$                      /$$                       /$$    
-   |__  $$                                               /$$__  $$                    | $$                      | $$    
-      | $$  /$$$$$$   /$$$$$$$ /$$   /$$  /$$$$$$       | $$  \__/  /$$$$$$  /$$   /$$| $$  /$$$$$$   /$$$$$$  /$$$$$$  
-      | $$ /$$__  $$ /$$_____/| $$  | $$ /$$__  $$      | $$ /$$$$ /$$__  $$| $$  | $$| $$ |____  $$ /$$__  $$|_  $$_/  
- /$$  | $$| $$  \ $$|  $$$$$$ | $$  | $$| $$$$$$$$      | $$|_  $$| $$  \ $$| $$  | $$| $$  /$$$$$$$| $$  \__/  | $$    
-| $$  | $$| $$  | $$ \____  $$| $$  | $$| $$_____/      | $$  \ $$| $$  | $$| $$  | $$| $$ /$$__  $$| $$        | $$ /$$
-|  $$$$$$/|  $$$$$$/ /$$$$$$$/|  $$$$$$/|  $$$$$$$      |  $$$$$$/|  $$$$$$/|  $$$$$$/| $$|  $$$$$$$| $$        |  $$$$/
- \______/  \______/ |_______/  \______/  \_______/       \______/  \______/  \______/ |__/ \_______/|__/         \___/  
-                                                                                                                        
-</p>                                                                                                          
-                                                                                                                        
-</div>
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Josué+Goulart" alt="Nome Animado" />
+  <br/>
   <sub><b>Desenvolvido por Josué Goulart © 2026</b></sub>
 </div>
