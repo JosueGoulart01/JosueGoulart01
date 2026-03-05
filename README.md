@@ -132,6 +132,20 @@
 
 </div>
 
+
+---
+
+<div align="center">
+  <h3>💡 Inspiração</h3>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 ```text
