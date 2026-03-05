@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Banner Josué Goulart" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png"/>
+  <img alt="Banner Josué Goulart" src="https://github.com/JosueGoulart01/JosueGoulart01/blob/main/img/banner.png" width="100%"/>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
   <i><b>Olá</b> 👋, sou o <code>Josué Goulart</code>, desenvolvedor de Belo Horizonte, MG.</i>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Estudante+de+Eng.++de+Software;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Arquitetura+de+Soluções;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,55 +32,84 @@
   <img src="https://img.shields.io/github/followers/JosueGoulart01?style=flat-square&color=7AA2F7&logo=github" alt="Followers"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JosueGoulart01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Troféus do GitHub" />
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando com **[Inserir tecnologia ou projeto, ex: Spring Boot e React]**
-- 🌱 Atualmente aprendendo **[Inserir o que está estudando, ex: Arquitetura de Microsserviços e AWS]**
-- 👯 Procuro colaborar em **projetos Open Source e desafios de Back-end**
-- 💬 Me pergunte sobre **Java, Python, ou engenharia de software**
-- ⚡ Fato curioso: **[Inserir um hobby ou curiosidade, ex: Sou apaixonado por hardware antigo]**
+- 🔭 Atualmente desenvolvendo **[Inserir seu projeto principal ou foco atual]**
+- 🌱 Aprofundando meus conhecimentos em **[Ex: Arquitetura de Software, Cloud AWS, etc.]**
+- 👯 Aberto a colaborações em **projetos Open Source e desafios de Back-end**
+- 💬 Me pergunte sobre **Java, Python, boas práticas e engenharia de software**
+- ⚡ Fato curioso: **[Inserir um hobby, ex: Sou fascinado por automação residencial]**
 
 ---
 
-## 💻 Minhas Habilidades
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/JosueGoulart01/NOME_DO_SEU_REPOSITORIO_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true" width="400" alt="Projeto 1"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JosueGoulart01/NOME_DO_SEU_REPOSITORIO_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosueGoulart01&repo=NOME_DO_SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true" width="400" alt="Projeto 2"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Tecnologias e Ferramentas
 
 <div align="center">
 
 ### Linguagens
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" title="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" title="C" />
 </p>
 
 ### Frameworks & Bibliotecas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" alt="Spring" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" alt="NestJS" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" alt="Spring" title="Spring Boot" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React" title="React" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" title="Next.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" alt="NestJS" title="NestJS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django" title="Django" />
 </p>
 
-### Banco de Dados & Ferramentas
+### Banco de Dados & Infraestrutura
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" alt="Docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" alt="Docker" title="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" alt="Figma" title="Figma" />
 </p>
 
 </div>
 
 ---
 
-## 📊 Github Analytics
+## 📊 Analytics do GitHub
 
 <div align="center">
   <table>
@@ -110,5 +139,8 @@
 ---
 
 <div align="center">
-  ⭐ <i>Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato.</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação sobre programação" />
+  <br/>
+  <br/>
+  ⭐ <i>Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus repositórios.</i>
 </div>
