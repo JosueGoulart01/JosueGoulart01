@@ -129,6 +129,6 @@
                     \/            \/          \/                       \/                                                                                                                                     
 ```                                        
 
-</div>
-  <sub><b>Desenvolvido por Josué Goulart © 2026</b></sub>
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
 </div>
