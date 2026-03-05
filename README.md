@@ -77,8 +77,8 @@ Graduando em <b>Engenharia de Software</b>. Profissional em constante evolução
   </tr>
   </table>
  </div>
------
 
+-----
 ## 💻 Minhas Habilidades
 
 #### Linguagens:
