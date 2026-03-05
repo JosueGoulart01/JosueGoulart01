@@ -82,20 +82,5 @@ Graduando em <b>Engenharia de Software</b>. Profissional em constante evolução
 
 -----
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="6"><b>Conecte-se comigo</b></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/JosueGoulart01" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="mailto:josuegoulart.engdesoftware@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://wa.me/5531986944904" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://www.instagram.com/josuegoulart_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://www.linkedin.com/in/josué-goulart" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://calendly.com/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a></td>
-</tr>
-</table>
-<br/>
 <sub><b>Desenvolvido por Josué Goulart © 2024</b></sub>
 </div>
