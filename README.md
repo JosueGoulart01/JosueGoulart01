@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://nice-readme.vercel.app/repo-pins">
+<img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=default&hide_border=false&border_radius=4.5&card_width=466" alt="JosueGoulart01 Pin" />
+</a>
+</p>
+
 <div align="center">
 <table>
 <tr>
@@ -51,6 +57,14 @@
 
 <div align="center">
 <p align="center">
+<a href="https://nice-readme.vercel.app/wakatime">
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false" alt="WakaTime Stats" />
+</a>
+</p>
+ <p align="center">
+<a href="https://nice-readme.vercel.app/top-langs">
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+</a>
 <a href="https://nice-readme.vercel.app/wakatime">
 <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false" alt="WakaTime Stats" />
 </a>
