@@ -93,30 +93,44 @@
 
 ---
 
-## 📊 Estatísticas
-
 <div align="center">
-  <a href="https://nice-readme.vercel.app/repo-pins">
-    <img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=default&hide_border=false&border_radius=4.5&card_width=466" alt="JosueGoulart01 Pin" />
-  </a>
-  <br/><br/>
-  <a href="https://nice-readme.vercel.app/top-langs">
-    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
-  </a>
-  <a href="https://nice-readme.vercel.app/wakatime">
-    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false" alt="WakaTime Stats" />
-  </a>
+
+  ### 📊 Estatísticas de Atividade
+  
+  <table>
+    <tr>
+      <td align="center" border="none">
+        <a href="https://nice-readme.vercel.app/repo-pins">
+          <img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=default&hide_border=false&border_radius=4.5&card_width=400" alt="Repo Pin" />
+        </a>
+      </td>
+      <td align="center" border="none">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" border="none">
+        <a href="https://nice-readme.vercel.app/top-langs">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=400&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+        </a>
+      </td>
+      <td align="center" border="none">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" border="none">
+        <a href="https://nice-readme.vercel.app/wakatime">
+          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=400&line_height=25&layout=default&display_format=time&disable_animations=false" alt="WakaTime Stats" />
+        </a>
+      </td>
+      <td align="center" border="none">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" width="400" />
+      </td>
+    </tr>
+  </table>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" />
-</div>
-
-<br/><br/>
 
 <div align="center">
 
@@ -132,7 +146,5 @@
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
 </div>
--->
-
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
 
