@@ -92,47 +92,38 @@
 <br clear="all" />
 
 ---
-
 <div align="center">
+  <h3>📊 Estatísticas de Atividade</h3>
 
-  ### 📊 Estatísticas de Atividade
-  
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" border="none">
-        <a href="https://nice-readme.vercel.app/repo-pins">
-          <img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=default&hide_border=false&border_radius=4.5&card_width=400" alt="Repo Pin" />
-        </a>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" width="100%" />
       </td>
-      <td align="center" border="none">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" width="400" />
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" width="100%" />
       </td>
     </tr>
+    
     <tr>
-      <td align="center" border="none">
-        <a href="https://nice-readme.vercel.app/top-langs">
-          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=400&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
-        </a>
+      <td align="center" width="50%">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=compact&theme=aura&hide_border=true&card_width=400&locale=pt-br" alt="Linguagens mais usadas" />
       </td>
-      <td align="center" border="none">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" width="400" />
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" width="100%" />
       </td>
     </tr>
-   
+
     <tr>
-      <td align="center" border="none">
-        <a href="https://nice-readme.vercel.app/wakatime">
-          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false" />
-        </a>
+      <td align="center" width="50%">
+        <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&theme=aura&hide_border=true&card_width=400" alt="WakaTime Stats" />
       </td>
-      <td align="center" border="none">
-         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" width="400" />
+      <td align="center" width="50%">
+        <img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=aura&hide_border=true&card_width=400" alt="Repo Destaque" />
       </td>
     </tr>
   </table>
-
 </div>
-
 
 
 ---
