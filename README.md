@@ -79,41 +79,30 @@
 
 <br clear="all" />
 
-
-
 ---
 
 ### 📊 Estatísticas de Atividade
 
 <div align="center">
-  <table border="0">
-      <td align="center">
-        <a href="https://nice-readme.vercel.app/streak-stats">
-          <img src="https://github-streak-stats-ruby.vercel.app/?user=JosueGoulart01&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=466&card_height=194" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://nice-readme.vercel.app/top-langs">
-          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=aura&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nice-readme.vercel.app/wakatime">
-          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura&border_radius=4.5" alt="WakaTime Stats" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/JosueGoulart01">
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=JosueGoulart01&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/JosueGoulart01">
+    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=compact&theme=aura&hide_border=false&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+  </a>
+  <a href="https://github.com/JosueGoulart01">
+    <img height="195" src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&layout=compact&theme=aura&border_radius=4.5" alt="WakaTime Stats" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/JosueGoulart01">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" alt="Detalhes do Perfil" />
+  </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <picture>
