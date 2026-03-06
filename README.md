@@ -79,30 +79,42 @@
 
 <br clear="all" />
 
+
+
 ---
 
 ### 📊 Estatísticas de Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGoulart01&theme=aura" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://nice-readme.vercel.app/top-langs">
-    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=aura&hide_border=true&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
-  </a>
-  <a href="https://nice-readme.vercel.app/wakatime">
-    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura&hide_border=true" alt="WakaTime Stats" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="185px" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/streak-stats">
+          <img src="https://github-streak-stats-ruby.vercel.app/?user=JosueGoulart01&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=466&card_height=194" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/top-langs">
+          <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=aura&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nice-readme.vercel.app/wakatime">
+          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura&border_radius=4.5" alt="WakaTime Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
