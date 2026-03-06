@@ -7,19 +7,19 @@
 <br/>
 
 <div align="center">
-<table>
-<tr>
- <td align="center" colspan="6">Mídias e Contato</td>
-</tr> 
-<tr>
-<td><a href="https://github.com/JosueGoulart01" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="mailto:josuegoulart.engdesoftware@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://wa.me/5531986944904" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://www.instagram.com/josuegoulart_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="https://www.linkedin.com/in/josué-goulart" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a></td>
-<td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a></td>
-</tr>
-</table>
+  <table border="0">
+    <tr>
+      <td align="center" colspan="6"><strong>Mídias e Contato</strong></td>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/JosueGoulart01" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="45px"/></a></td>
+      <td><a href="mailto:josuegoulart.engdesoftware@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://wa.me/5531986944904" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://www.instagram.com/josuegoulart_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://www.linkedin.com/in/josué-goulart" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
+      <td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -38,122 +38,77 @@
   <br/>
   <img src="https://img.shields.io/github/commit-activity/m/JosueGoulart01/JosueGoulart01?color=0078d7&label=COMMIT+ACTIVITY&style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/JosueGoulart01/JosueGoulart01?color=0078d7&label=LAST+COMMIT&style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/github/followers/JosueGoulart01?style=social" /> 
-  <img src="https://img.shields.io/github/stars/JosueGoulart01/JosueGoulart01?style=social" />
 </div>
 
 ---
 
 ## 💻 Minhas Habilidades
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador">
 
 #### Linguagens:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />
 </div>
 
 <br/>
 
 #### Frameworks & Bibliotecas:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" title="Spring" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" title="Next" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
 </div>
 
 <br/>
 
-#### Banco de Dados:
+#### Banco de Dados & Ferramentas:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-</div>
-
-<br/>
-
-#### Ferramentas e IDEs:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VSCode" />
 </div>
 
 <br clear="all" />
 
 ---
+
+### 📊 Estatísticas de Atividade
+
 <div align="center">
-  <h3>📊 Estatísticas de Atividade</h3>
-
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosueGoulart01&theme=aura" width="100%" />
-      </td>
-    </tr>
-    
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=compact&theme=aura&hide_border=true&card_width=400&locale=pt-br" alt="Linguagens mais usadas" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" width="100%" />
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&theme=aura&hide_border=true&card_width=400" alt="WakaTime Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://helio-github-stats.vercel.app/api/pin?username=JosueGoulart01&repo=JosueGoulart01&theme=aura&hide_border=true&card_width=400" alt="Repo Destaque" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&langs_count=7&theme=aura" />
 </div>
-
-
----
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGoulart01&theme=aura" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ---
 
 <div align="center">
-
-```text
-     ____.                              ________             .__                 __   
-    |    | ____  ________ __   ____    /  _____/  ____  __ __|  | _____ ________/  |_ 
-    |    |/  _ \/  ___/  |  \_/ __ \  /   \  ___ /  _ \|  |  \  | \__  \\_  __ \   __\
-/\__|    (  <_> )___ \|  |  /\  ___/  \    \_\  (  <_> )  |  /  |__/ __ \|  | \/|  |  
-\________|\____/____  >____/  \___  >  \______  /\____/|____/|____(____  /__|   |__|  
-                    \/            \/          \/                       \/                                                                                                                                     
-```                                        
-
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
+  <br/>
+  <img align="center" alt="Footer" width="100%" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
+  <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0078D7&section=footer"/>
 </div>
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
-
