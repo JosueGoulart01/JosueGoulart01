@@ -87,10 +87,6 @@
 
 <div align="center">
   <table border="0">
-    <tr>
-      <td align="center">
-        <img height="185px" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-      </td>
       <td align="center">
         <a href="https://nice-readme.vercel.app/streak-stats">
           <img src="https://github-streak-stats-ruby.vercel.app/?user=JosueGoulart01&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=466&card_height=194" alt="GitHub Streak" />
