@@ -118,10 +118,11 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosueGoulart01&theme=aura" width="400" />
       </td>
     </tr>
+   
     <tr>
       <td align="center" border="none">
         <a href="https://nice-readme.vercel.app/wakatime">
-          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=400&line_height=25&layout=default&display_format=time&disable_animations=false" alt="WakaTime Stats" />
+          <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false" />
         </a>
       </td>
       <td align="center" border="none">
