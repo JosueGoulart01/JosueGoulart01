@@ -85,18 +85,24 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueGoulart01&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGoulart01&layout=compact&langs_count=7&theme=aura" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGoulart01&theme=aura" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://nice-readme.vercel.app/wakatime">
-    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura" alt="WakaTime Stats" />
+  <a href="https://nice-readme.vercel.app/top-langs">
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=normal&stats_format=percentages&theme=aura&hide_border=true&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
   </a>
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGoulart01&theme=aura" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
+  <a href="https://nice-readme.vercel.app/wakatime">
+    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura&hide_border=true" alt="WakaTime Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
 </div>
 
 <br/>
@@ -105,7 +111,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
 
