@@ -91,6 +91,10 @@
 <br/>
 
 <div align="center">
+  <a href="https://nice-readme.vercel.app/wakatime">
+    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&theme=aura" alt="WakaTime Stats" />
+  </a>
+  <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGoulart01&theme=aura" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueGoulart01&theme=aura" />
 </div>
