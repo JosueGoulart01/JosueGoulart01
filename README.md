@@ -17,7 +17,7 @@
       <td><a href="https://wa.me/5531986944904" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="45px"/></a></td>
       <td><a href="https://www.instagram.com/josuegoulart_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="45px"/></a></td>
       <td><a href="https://www.linkedin.com/in/josué-goulart" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="45px"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
+      <td><a href="https://josuegoulart.vercel.app/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="45px"/></a></td>
     </tr>
   </table>
 </div>
