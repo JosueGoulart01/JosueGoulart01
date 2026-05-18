@@ -84,16 +84,13 @@
 ### 📊 Estatísticas de Atividade
 
 <div align="center">
-  <a href="https://github.com/JosueGoulart01">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=JosueGoulart01&theme=aura&hide_border=false&border_radius=4.5&locale=pt_BR" alt="GitHub Streak" />
-  </a>
   <br><br>
 
   <a href="https://github.com/JosueGoulart01">
-    <img height="195" src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=compact&theme=aura&hide_border=false&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
+    <img height="80%" src="https://helio-github-stats.vercel.app/api/top-langs?username=JosueGoulart01&layout=compact&theme=aura&hide_border=false&border_radius=4.5&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" />
   </a>
   <a href="https://github.com/JosueGoulart01">
-    <img height="195" src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&layout=compact&theme=aura&border_radius=4.5" alt="WakaTime Stats" />
+    <img height="80%" src="https://helio-github-stats.vercel.app/api/wakatime?username=JosueGoulart01&custom_title=WakaTime+Stats&layout=compact&theme=aura&border_radius=4.5" alt="WakaTime Stats" />
   </a>
   <br><br>
 
